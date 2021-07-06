@@ -1,0 +1,13 @@
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.exe
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.deps.json
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.runtimeconfig.json
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.runtimeconfig.dev.json
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.dll
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\bin\Debug\netcoreapp3.1\Invertapp.pdb
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.csproj.AssemblyReference.cache
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.AssemblyInfoInputs.cache
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.AssemblyInfo.cs
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.csproj.CoreCompileInputs.cache
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.dll
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.pdb
+C:\Users\Gregory De Mota\Desktop\recursos_Vue\Invertapp\obj\Debug\netcoreapp3.1\Invertapp.genruntimeconfig.cache
